@@ -4,13 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aeb5fda9-06c4-4bca-9a0f-bbe75b9a9360" name="Changes" comment="init" />
+    <list default="true" id="aeb5fda9-06c4-4bca-9a0f-bbe75b9a9360" name="Changes" comment="add sonar 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="123" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -22,20 +27,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Cronos/IdeaProjects/uraclown",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cronos\IdeaProjects\uraclown" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Cronos\IdeaProjects\uraclown" />
       <recent name="C:\Users\Cronos\IdeaProjects\uraclown\.idea" />
@@ -68,14 +77,96 @@
       <option name="project" value="LOCAL" />
       <updated>1771761948070</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add plugins">
+      <option name="closed" value="true" />
+      <created>1794396903239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1794396903239</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add plugins 2">
+      <option name="closed" value="true" />
+      <created>1794405513647</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1794405513647</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add sonar 1">
+      <option name="closed" value="true" />
+      <created>1794405909230</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1794405909230</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add sonar 1">
+      <option name="closed" value="true" />
+      <created>1794406039775</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1794406039775</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add jpa">
+      <option name="closed" value="true" />
+      <created>1794406284936</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1794406284936</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add sonar 1">
+      <option name="closed" value="true" />
+      <created>1794406333535</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1794406333535</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add sonar 2">
+      <option name="closed" value="true" />
+      <created>1794406429685</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1794406429685</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add sonar 3">
+      <option name="closed" value="true" />
+      <created>1794406618326</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1794406618326</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="add plugins" />
+    <MESSAGE value="add plugins 2" />
+    <MESSAGE value="add plugins 3" />
+    <MESSAGE value="add jpa" />
+    <MESSAGE value="add sonar 1" />
+    <MESSAGE value="add sonar 2" />
+    <MESSAGE value="add sonar 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add sonar 3" />
   </component>
 </project>
